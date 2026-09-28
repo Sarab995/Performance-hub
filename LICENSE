@@ -1,0 +1,41 @@
+Performance Hub — Licence
+Copyright (c) 2026 Sarab Alobaid. All rights reserved.
+
+This licence explains how you may use Performance Hub (the "Dashboard"),
+including its source code, design, layout and text.
+
+1. WHAT YOU MAY DO
+   Free of charge, individuals and organisations may:
+   a) open and use the Dashboard, online or as a downloaded file;
+   b) enter, import, edit and export their own data in it;
+   c) change its titles, company name and department name using the
+      editing features built into the Dashboard;
+   d) save and keep copies of the Dashboard for their own use.
+
+2. WHAT YOU MAY NOT DO
+   Without prior written permission from the copyright holder, you may not:
+   a) sell, rent, license or charge any fee for the Dashboard, or include it
+      in any product or service that is sold or charged for;
+   b) copy, extract or reuse its source code, in whole or in part, in any
+      other software, website or project;
+   c) modify the source code, or create and distribute modified versions;
+   d) publish, share or distribute the Dashboard, or copies of it, as your own
+      work or under any other name;
+   e) remove or alter this licence or any copyright notice, including the
+      copyright line shown in the Dashboard.
+
+3. OWNERSHIP
+   Using the Dashboard does not transfer any ownership or rights to you.
+   Data you enter remains yours.
+
+4. NO WARRANTY
+   The Dashboard is provided "as is", without warranty of any kind. The
+   copyright holder is not liable for any loss or damage arising from its use.
+
+5. PERMISSIONS
+   To request permission for any use not allowed above, contact the copyright
+   holder through GitHub: https://github.com/Sarab995
+
+Third-party components remain under their own licences. The charts use
+Chart.js (https://www.chartjs.org), Copyright (c) 2023 Chart.js Contributors,
+released under the MIT License. Its licence notice is kept in the source code.
